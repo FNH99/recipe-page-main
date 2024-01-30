@@ -35,7 +35,7 @@ img {
     line-height: 1.5;
 }
 
-ul {
+ul, ol {
     padding-left: 1rem;
 }
 
@@ -51,6 +51,16 @@ h3 {
 
 .bold-text {
     font-weight: 600;
+}
+
+.bullet-indent {
+    padding-left: 1rem;
+}
+
+.instruction-box .bullet-indent {
+    position: relative;
+    padding-left: 0;
+    left: 1rem;
 }
 
 .main-title {

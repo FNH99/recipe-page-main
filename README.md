@@ -8,6 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
     - [Desktop Screenshot](#desktop-screenshot)
+    - [Mobile Screenshot](#mobile-screenshot)
   - [Links](#links)
 - [Author](#author)
 
@@ -16,7 +17,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 #### Desktop Screenshot
-![](https://github.com/FNH99/blog-preview-card-main/blob/main/assets/images/screenshot.png)
+![](https://github.com/FNH99/recipe-page-main/blob/main/design/screenshot-desktop.png)
+
+#### Mobile Screenshot
+![](https://github.com/FNH99/recipe-page-main/blob/main/design/screenshot-mobile.png)
 
 ### Links
 

@@ -61,10 +61,20 @@ h3 {
     padding-left: 1rem;
 }
 
+.instruction-box {
+    color: var(--Nutmeg);
+    font-weight: 600;
+}
+
 .instruction-box .bullet-indent {
     position: relative;
     padding-left: 0;
     left: 1rem;
+}
+
+.normal-font {
+    color: black;
+    font-weight: 400;
 }
 
 .main-title {
@@ -105,4 +115,10 @@ th, td {
 
 th {
     color: var(--Nutmeg);
+}
+
+.border-line {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(211, 211, 211);
 }

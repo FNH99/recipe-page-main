@@ -25,14 +25,22 @@ img {
     border-radius: .5rem;
 }
 
-.container {
+.img-box {
     padding: 2rem;
+    padding-bottom: 0rem;
+}
+
+.container {
     display: block;
     max-width: 600px;
     background-color: white;
     margin: 80px auto; 
     border-radius: 1rem;
     line-height: 1.5;
+}
+
+.recipe-box {
+    padding: 2rem;
 }
 
 ul, ol {
@@ -79,7 +87,7 @@ h3 {
 
 .main-title {
     color: black;
-    margin: 1rem 0;
+    margin-bottom: 1rem;
 }
 
 .prep-box {
@@ -121,4 +129,24 @@ th {
     width: 100%;
     height: 1px;
     background-color: rgb(211, 211, 211);
+}
+
+
+/* MOBILE CONTAINER */
+@media screen and (max-width: 500px) {
+    img {
+        border-radius: 0rem;
+    }
+
+    .img-box {
+        padding: 0;
+    }
+    .container {
+        margin: 0 auto;
+        border-radius: 0rem;
+    }
+
+    .attribution {
+        display: none;
+    }
 }

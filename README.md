@@ -7,6 +7,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Desktop Screenshot](#desktop-screenshot)
   - [Links](#links)
 - [Author](#author)
 
@@ -14,6 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+#### Desktop Screenshot
 ![](https://github.com/FNH99/blog-preview-card-main/blob/main/assets/images/screenshot.png)
 
 ### Links

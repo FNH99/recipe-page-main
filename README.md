@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [recipe page](https://blog-preview-card-main-seven.vercel.app)
+- Live Site URL: [recipe page](https://recipe-page-main-tau.vercel.app)
 
 ## Author
 
